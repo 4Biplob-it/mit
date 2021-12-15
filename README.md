@@ -1,2 +1,0 @@
-# mit
-mit custom post
